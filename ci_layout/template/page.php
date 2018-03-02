@@ -1,0 +1,1 @@
+<?php if($CONTENT) echo $CONTENT; ?>
